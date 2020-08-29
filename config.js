@@ -15,7 +15,7 @@ var config = {
         "算算日子，不知不觉中",
         "已经和你瞎bb快有一个月了",
         "这段时光",
-        "和你一起听这首《Darling》",
+        "和你一起听歌",
         "和你一起看禁忌女孩",
         "和你一起打王者",
         "虽然你经常坑得不行（笑~",
@@ -64,7 +64,16 @@ var config = {
      */
     imgs: {
         "不要脸的🐟": "./img/xiaokeai.png",
-        "和你一起听歌的时候": "./img/xiaokeai.png",
+        "和你一起听歌": "./img/tingge.png",
+        "和你一起看禁忌女孩":"./img/jjnh.png",
+        "和你一起打王者":"./img/wangzhe.png",
+        "第一次听你弹晴天":"./img/tanqin.png",
+        "第一次和你去千鸟城":"./img/qianniao.png"
+        "第一次和你一起戴上🦊面具":"./img/huli.png"
+        "第一次带你去暴风眼拿金人":"./img/jinren.png"
+        "第一次和你翱翔在重生路":"./img/aoxiang.png"
+        "第一次和你坐在星河...":"./img/xianji3.png"
+        
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
