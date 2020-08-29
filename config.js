@@ -33,10 +33,10 @@ var config = {
         turn_on: "给👴点这",
         play: "音乐走起",
         bannar_coming: "来搞点颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
+        balloons_flying: "来个横幅",
+        cake_fadein: "上个蛋糕",
+        light_candle: "点根蜡烛？",
         wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        story: "想对你说的话",
     }
 };
