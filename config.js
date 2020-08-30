@@ -73,7 +73,7 @@ var config = {
         "第一次带你去暴风眼拿金人":"./img/jinren.png",
         "第一次和你翱翔在重生路":"./img/aoxiang.png",
         "第一次和你坐在星河...":"./img/xianji3.png",
-        "——帅哥空 2020.9.1":"./img/wo.png",
+        "——帅哥空 2020.9.1":"./img/woxt.png",
         
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
